@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contatos</string>
+    <string name="action_settings">Salvar</string>
+    <array name="tipos">
+        <item>Celular</item>
+        <item>Casa</item>
+        <item>Trabalho</item>
+    </array>
+</resources>
